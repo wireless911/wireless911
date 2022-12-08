@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wireless911
 - 👀 I’m interested in DL
 - 🌱 I’m currently learning GNN KG
-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wireless911&repo=github-readme-stats" />
 </a>
