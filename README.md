@@ -2,7 +2,6 @@
 - 👀 I’m interested in DL
 - 🌱 I’m currently learning GNN KG
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wireless911&random=random)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wireless911&repo=github-readme-stats&layout=compact&random=random" />
