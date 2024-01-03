@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wireless911
-- 👀 I’m interested in DL
+- 👀 I’m interested in NLP
 - 🌱 I’m currently learning GNN KG
 
 
